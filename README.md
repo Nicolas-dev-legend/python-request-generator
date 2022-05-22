@@ -1,4 +1,4 @@
-# PHPRequestGenerator BY LEGEND
+# PythonRequestGenerator BY LEGEND
 
 
 Python Automation Shit
